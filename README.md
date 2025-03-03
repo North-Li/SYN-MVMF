@@ -5,7 +5,8 @@ SYN-MVMF consists of 600 scenes, each containing 9 RGB multi-view multi-focus(MV
 ### Multi-view multi-focus images
 <img src="https://github.com/North-Li/SYN-MVMF/blob/main/Multi-view%20multi-focus%20images.png" >
 
-
+### Defocus maps
+<img src="https://github.com/North-Li/SYN-MVMF/blob/main/Defocus%20maps.png" >
 
 
 ## Declare
